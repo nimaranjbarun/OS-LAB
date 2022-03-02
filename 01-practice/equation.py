@@ -1,0 +1,1 @@
+print('x = '+str(float((1/int(input('Enter "a" input : ')))* int(input('Enter "b" input : ')))));
